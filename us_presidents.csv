@@ -43,5 +43,5 @@ Order,Start_Date,End_Date,Full_Name,Party,First_Name,Middle_Name,Last_Name,Wiki_
 42,1993-01-20,2001-01-20,Bill Clinton,Democratic,Bill,,Clinton,https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton
 43,2001-01-20,2009-01-20,George W. Bush,Republican,George,W.,Bush,https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush
 44,2009-01-20,2017-01-20,Barack Obama,Democratic,Barack,,Obama,https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama
-45,2017-01-20,2020-01-20,Donald Trump,Republican,Donald,,Trump,https://en.wikipedia.org/wiki/Presidency_of_Donald_Trump
-46,2020-01-20,2024-01-20,Joe Biden,Democratic,Joe,,Biden,https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden
+45,2017-01-20,2021-01-20,Donald Trump,Republican,Donald,,Trump,https://en.wikipedia.org/wiki/Presidency_of_Donald_Trump
+46,2021-01-20,2025-01-20,Joe Biden,Democratic,Joe,,Biden,https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden
